@@ -23,8 +23,9 @@
     "eslint-config-standard": "^6.2.1",
     "eslint-plugin-promise": "^3.4.1",
     "eslint-plugin-standard": "^2.0.1",
+    "standard-loader": "^5.0.0",
     "eslit": "^3.0.0",
     "expose-loader": "^0.7.1",
     "webpack": "^2.2.1"
-  }
+  },
 }
